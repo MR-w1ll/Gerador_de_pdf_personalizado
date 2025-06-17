@@ -17,30 +17,37 @@ Ideal para gerar certificados, relatórios dinâmicos, declarações, laudos ou 
 
 ## 📷 Exemplos de Gráficos Gerados
 
-<p align="center">
-  <img src="imagens/Figure_3.png" width="400"/><br>
-  <b>Gráfico de Linha – Juros Compostos</b>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<p align="center">
-  <img src="imagens/Figure_2.png" width="400"/><br>
-  <b>Gráfico de Barras – Comparativo Mensal</b>
-</p>
+  <div>
+    <img src="imagens/Figure_3.png" width="250"/><br>
+    <b>Gráfico de Linha – Juros Compostos</b>
+  </div>
 
-<p align="center">
-  <img src="imagens/Figure_1.png" width="300"/><br>
-  <b>Gráfico de Pizza – Distribuição de Categorias</b>
-</p>
+  <div>
+    <img src="imagens/Figure_2.png" width="250"/><br>
+    <b>Gráfico de Barras – Comparativo Mensal</b>
+  </div>
 
-<p align="center">
-  <img src="imagens/Figure_4.png" width="400"/><br>
-  <b>Gráfico de Barras – Comparativo Mensal</b>
-</p>
+  <div>
+    <img src="imagens/Figure_1.png" width="250"/><br>
+    <b>Gráfico de Pizza – Distribuição de Categorias</b>
+  </div>
 
-<p align="center">
+  <div>
+    <img src="imagens/Figure_4.png" width="250"/><br>
+    <b>Gráfico de Linha – Comparativo Mensal</b>
+  </div>
+
+</div>
+
+<br>
+
+<div align="center">
   <img src="imagens/Figure_5.png" width="400"/><br>
-  <b>Gráfico de Barras – Comparativo Mensal</b>
-</p>
+  <b>Gráfico de Barras – Comparativo Mensal (Centralizado)</b>
+</div>
+
 
 > 💡 Você pode adicionar seus próprios gráficos e posicioná-los sobre qualquer página do template.
 
