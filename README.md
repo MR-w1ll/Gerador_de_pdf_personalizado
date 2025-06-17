@@ -18,17 +18,17 @@ Ideal para gerar certificados, relatórios dinâmicos, declarações, laudos ou 
 ## 📷 Exemplos de Gráficos Gerados
 
 <p align="center">
-  <img src="imagens/Figure_3.png.png" width="400"/><br>
+  <img src="imagens/Figure_3.png" width="400"/><br>
   <b>Gráfico de Linha – Juros Compostos</b>
 </p>
 
 <p align="center">
-  <img src="imagens/Figure_2.png.png" width="400"/><br>
+  <img src="imagens/Figure_2.png" width="400"/><br>
   <b>Gráfico de Barras – Comparativo Mensal</b>
 </p>
 
 <p align="center">
-  <img src="imagens/Figure_1.png.png" width="300"/><br>
+  <img src="imagens/Figure_1.png" width="300"/><br>
   <b>Gráfico de Pizza – Distribuição de Categorias</b>
 </p>
 
