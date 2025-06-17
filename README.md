@@ -32,6 +32,16 @@ Ideal para gerar certificados, relatórios dinâmicos, declarações, laudos ou 
   <b>Gráfico de Pizza – Distribuição de Categorias</b>
 </p>
 
+<p align="center">
+  <img src="imagens/Figure_4.png" width="400"/><br>
+  <b>Gráfico de Barras – Comparativo Mensal</b>
+</p>
+
+<p align="center">
+  <img src="imagens/Figure_5.png" width="400"/><br>
+  <b>Gráfico de Barras – Comparativo Mensal</b>
+</p>
+
 > 💡 Você pode adicionar seus próprios gráficos e posicioná-los sobre qualquer página do template.
 
 ---
