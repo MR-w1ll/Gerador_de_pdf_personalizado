@@ -64,24 +64,64 @@ Abaixo estão exemplos reais de páginas geradas pelo sistema, com textos e grá
       <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
     </td>
     <td align="center">
-      <img src="imagens/resultado/Figure_5.png" width="300"/><br>
-      <sub><strong>Página 2</strong><br>Gráfico de desempenho</sub>
+      <img src="imagens/resultado/1.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
     </td
   </tr>
-  
+
   <tr>
     <td align="center">
-      <img src="imagens/Figure_5.png" width="300"/><br>
-      <sub><strong>Página 4</strong><br>Informações complementares</sub>
+      <img src="imagens/objetivo/8.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
     </td>
     <td align="center">
-      <img src="imagens/Figure_5.png" width="300"/><br>
-      <sub><strong>Página 5</strong><br>Relatório final</sub>
+      <img src="imagens/resultado/2.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+    </td
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="imagens/objetivo/9.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
     </td>
     <td align="center">
-      <img src="imagens/Figure_5.png" width="300"/><br>
-      <sub><strong>Página 6</strong><br>Assinaturas e encerramento</sub>
+      <img src="imagens/resultado/3.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+    </td
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="imagens/objetivo/10.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
     </td>
+    <td align="center">
+      <img src="imagens/resultado/4.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+    </td
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="imagens/objetivo/11.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
+    </td>
+    <td align="center">
+      <img src="imagens/resultado/5.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+    </td
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="imagens/objetivo/12.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
+    </td>
+    <td align="center">
+      <img src="imagens/resultado/6.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+    </td
   </tr>
   
 </table>
