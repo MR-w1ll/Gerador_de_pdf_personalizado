@@ -54,7 +54,8 @@ Abaixo estão alguns exemplos dos gráficos que podem ser adicionados e posicion
 
 ## 🖼️ Exemplos de Páginas Geradas
 
-Abaixo estão exemplos reais de páginas geradas pelo sistema, com textos e gráficos posicionados automaticamente sobre os templates PNG. Esses modelos representam como o documento final pode ser exportado para PDF com alto nível de personalização.
+Abaixo estão exemplos de páginas geradas pelo sistema com base em um template feito no canva.com, com textos e gráficos posicionados automaticamente sobre os templates PNG. Esses modelos representam como o documento final pode ser exportado para PDF com alto nível de personalização.
+OBS: Valores utilizados na geração dos graficos são distintos em cada caso. 
 
 <table align="center">
   
