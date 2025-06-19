@@ -52,6 +52,44 @@ Abaixo estão alguns exemplos dos gráficos que podem ser adicionados e posicion
 
 ---
 
+## 🖼️ Exemplos de Páginas Geradas
+
+Abaixo estão exemplos reais de páginas geradas pelo sistema, com textos e gráficos posicionados automaticamente sobre os templates PNG. Esses modelos representam como o documento final pode ser exportado para PDF com alto nível de personalização.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="imagens/Figure_5.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Introdução e identificação</sub>
+    </td>
+    <td align="center">
+      <img src="imagens/Figure_5.png" width="300"/><br>
+      <sub><strong>Página 2</strong><br>Gráfico de desempenho</sub>
+    </td>
+    <td align="center">
+      <img src="imagens/exemplo3.png" width="300"/><br>
+      <sub><strong>Página 3</strong><br>Resumo mensal</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="imagens/Figure_5.png" width="300"/><br>
+      <sub><strong>Página 4</strong><br>Informações complementares</sub>
+    </td>
+    <td align="center">
+      <img src="imagens/Figure_5.png" width="300"/><br>
+      <sub><strong>Página 5</strong><br>Relatório final</sub>
+    </td>
+    <td align="center">
+      <img src="imagens/Figure_5.png" width="300"/><br>
+      <sub><strong>Página 6</strong><br>Assinaturas e encerramento</sub>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## 📄 Exemplos de PDFs Gerados
 
 - [Exemplo 1 – Certificado de Participação](pdfs_exemplo/certificado1.pdf)
