@@ -57,20 +57,18 @@ Abaixo estão alguns exemplos dos gráficos que podem ser adicionados e posicion
 Abaixo estão exemplos reais de páginas geradas pelo sistema, com textos e gráficos posicionados automaticamente sobre os templates PNG. Esses modelos representam como o documento final pode ser exportado para PDF com alto nível de personalização.
 
 <table align="center">
+  
   <tr>
     <td align="center">
-      <img src="imagens/Figure_5.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Introdução e identificação</sub>
+      <img src="imagens/objetivo/7.png" width="300"/><br>
+      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
     </td>
     <td align="center">
-      <img src="imagens/Figure_5.png" width="300"/><br>
+      <img src="imagens/resultado/Figure_5.png" width="300"/><br>
       <sub><strong>Página 2</strong><br>Gráfico de desempenho</sub>
-    </td>
-    <td align="center">
-      <img src="imagens/exemplo3.png" width="300"/><br>
-      <sub><strong>Página 3</strong><br>Resumo mensal</sub>
-    </td>
+    </td
   </tr>
+  
   <tr>
     <td align="center">
       <img src="imagens/Figure_5.png" width="300"/><br>
@@ -85,6 +83,7 @@ Abaixo estão exemplos reais de páginas geradas pelo sistema, com textos e grá
       <sub><strong>Página 6</strong><br>Assinaturas e encerramento</sub>
     </td>
   </tr>
+  
 </table>
 
 
