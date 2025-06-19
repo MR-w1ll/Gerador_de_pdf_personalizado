@@ -61,66 +61,66 @@ Abaixo estão exemplos reais de páginas geradas pelo sistema, com textos e grá
   <tr>
     <td align="center">
       <img src="imagens/objetivo/7.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
+      <sub><strong>Página 1 (canva.com)</strong><br>Titulo de referencia</sub>
     </td>
     <td align="center">
       <img src="imagens/resultado/1.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+      <sub><strong>Página 1 (projeto)</strong><br>Titulo inserido pelo programa</sub>
     </td
   </tr>
 
   <tr>
     <td align="center">
       <img src="imagens/objetivo/8.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
+      <sub><strong>Página 2 (canva.com)</strong><br>Colunas de texto de referencia</sub>
     </td>
     <td align="center">
       <img src="imagens/resultado/2.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+      <sub><strong>Página 2 (projeto)</strong><br>Colunas de texto inseridas pelo programa</sub>
     </td
   </tr>
 
   <tr>
     <td align="center">
       <img src="imagens/objetivo/9.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
+      <sub><strong>Página 3 (canva.com)</strong><br>Grafico de pizza de referencia</sub>
     </td>
     <td align="center">
       <img src="imagens/resultado/3.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+      <sub><strong>Página 3 (projeto)</strong><br>Grafico de pizza inserido pelo programa</sub>
     </td
   </tr>
 
   <tr>
     <td align="center">
       <img src="imagens/objetivo/10.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
+      <sub><strong>Página 4 (canva.com)</strong><br>Graficos de barras de referencia</sub>
     </td>
     <td align="center">
       <img src="imagens/resultado/4.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+      <sub><strong>Página 4 (projeto)</strong><br>Graficos de barras inseridos pelo programa</sub>
     </td
   </tr>
 
   <tr>
     <td align="center">
       <img src="imagens/objetivo/11.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
+      <sub><strong>Página 5 (canva.com)</strong><br>Grafico de barra de referencia</sub>
     </td>
     <td align="center">
       <img src="imagens/resultado/5.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+      <sub><strong>Página 5 (projeto)</strong><br>Grafico de barra inserido pelo programa</sub>
     </td
   </tr>
 
   <tr>
     <td align="center">
       <img src="imagens/objetivo/12.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo de referencia</sub>
+      <sub><strong>Página 6 (canva.com)</strong><br>Graficos de linhas de referencia</sub>
     </td>
     <td align="center">
       <img src="imagens/resultado/6.png" width="300"/><br>
-      <sub><strong>Página 1</strong><br>Titulo inserido pelo programa</sub>
+      <sub><strong>Página 6 (projeto)</strong><br>Graficos de linhas inseridos pelo programa</sub>
     </td
   </tr>
   
