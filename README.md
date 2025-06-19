@@ -132,7 +132,7 @@ OBS: Valores utilizados na geração dos graficos são distintos em cada caso.
 
 ## 📄 Exemplos de PDFs Gerados
 
-- [Exemplo 1 – Certificado de Participação](pdfs_exemplo/certificado1.pdf)
+- [Exemplo 1 – Gestão Financeira e Contábil](pdfs_gerados/saida_final.pdf)
 - [Exemplo 2 – Relatório de Desempenho](pdfs_exemplo/relatorio.pdf)
 - [Exemplo 3 – Boletim Escolar](pdfs_exemplo/boletim.pdf)
 
